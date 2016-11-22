@@ -4,5 +4,5 @@ def hello_world:
     if name == "":
         print("Hello World")
     else:
-        print("Hello " + name)
+        print("Hello " + name + " !")
 
